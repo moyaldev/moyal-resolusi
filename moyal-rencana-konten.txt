@@ -7,7 +7,7 @@ RENCANA KONTEN MOYAL
     ^ React
 - Struktur data dasar
 - PHP Framework
-  ^laravel
+  ^ laravel
 - Interview
 - Vlog
 - Python
