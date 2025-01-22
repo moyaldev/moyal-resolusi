@@ -3,7 +3,11 @@ RENCANA KONTEN MOYAL
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur data dasar
 - PHP Framework
+  ^laravel
 - Interview
 - Vlog
+- Python
